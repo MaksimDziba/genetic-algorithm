@@ -153,7 +153,7 @@ const STANKS = [
   { name: "B", area: 15, cost: 1000, productivity: 40 },
 ];
 ```
-[генетический алгоритм][https://github.com/MaksimDziba/genetic-algorithm/images/1.png]
+![генетический алгоритм](https://github.com/MaksimDziba/genetic-algorithm/blob/main/images/1.png)
 
 2. тест
 ```
@@ -162,7 +162,7 @@ const POPULATION_SIZE = 15;
 const MUTATION_RATE = 0.1;
 const GENERATIONS = 100;
 ```
-[генетический алгоритм][https://github.com/MaksimDziba/genetic-algorithm/images/2.png]
+![генетический алгоритм](https://github.com/MaksimDziba/genetic-algorithm/blob/main/images/2.png)
 
 3. тест
 ```
@@ -171,7 +171,7 @@ const POPULATION_SIZE = 5;
 const MUTATION_RATE = 0.1;
 const GENERATIONS = 50;
 ```
-[генетический алгоритм][https://github.com/MaksimDziba/genetic-algorithm/images/3.png]
+![генетический алгоритм](https://github.com/MaksimDziba/genetic-algorithm/blob/main/images/3.png)
 
 4. тест
 ```
@@ -180,4 +180,4 @@ const POPULATION_SIZE = 20;
 const MUTATION_RATE = 0.5;
 const GENERATIONS = 10000;
 ```
-[генетический алгоритм][https://github.com/MaksimDziba/genetic-algorithm/images/4.png]
+![генетический алгоритм](https://github.com/MaksimDziba/genetic-algorithm/blob/main/images/4.png)
